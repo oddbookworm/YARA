@@ -1,0 +1,4 @@
+__pycache__/
+mypy.ini
+venv/
+.mypy_cache/
